@@ -1,0 +1,4 @@
+yeet: Php 90.00
+bro: Php 23.00
+kath: Php 2345.00
+2: Php 343.00
