@@ -1,4 +1,5 @@
-yeet: Php 90.00
-bro: Php 23.00
-kath: Php 2345.00
-2: Php 343.00
+apple: Php 5.00
+orange: Php 1.00
+banana: Php 40.00
+grapes: Php 32.00
+cucumber: Php 54.00

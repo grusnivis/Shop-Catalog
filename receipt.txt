@@ -1,13 +1,13 @@
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 === Syapi 12.12 Winterfest Sale ===
 ***********************************
-Customer receipt for Syapi Buyer raiza.
+Customer receipt for Syapi Buyer Ayaka.
 
 Items added to cart:
-1. yeet @ Php 90.00
-2. bro @ Php 23.00
+1. apple @ Php 5.00
+2. orange @ Php 1.00
 
-The total for customer raiza's purchase is: Php 113.00
+The total for customer Ayaka's purchase is: Php 6.00
 
 
 This serves as an official receipt.
